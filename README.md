@@ -8,7 +8,7 @@ From the technical side, I have been constantly involved in various academic and
 - 🌱 I’m currently learning Quantum Computing.
 - 👯 I’m looking to collaborate on cool open source initiatives.
 - 🤔 I’m looking for help with several Open Source projects.
-- 💬 Ask me about aviation, videogames, programming, 
+- 💬 Ask me about aviation, videogames, JS/C/C#/C++ programming, 
 - 📫 How to reach me: at Twitter @DLozanoNavas or LinkedIn: 
 - 😄 Fun fact: I keep talking to myself outloud all day long. 
 
