@@ -1,17 +1,25 @@
-### Hi there 👋
+### Hi there, I'm Daniel! 👋
+
+Hi! 👋🏻 My name is Daniel Lozano, I am a Colombian entrepreneur, full-stack, cross-platform developer, and simulation enthusiast. I specialize in Cloud computing, DevOps, SysOps, SecOps, and DataOps.
+
+From the technical side, I have been constantly involved in various academic and commercial projects, using technologies such as Java, JavaScript (client and server-side), .NET,  C / C ++. Deeply involved in AI, cybersecurity, game development, and data science.
+
+- 🔭 I’m currently working at the Alliance Business Suite by @FenixAlliance.
+- 🌱 I’m currently learning Quantum Computing.
+- 👯 I’m looking to collaborate on cool open source initiatives.
+- 🤔 I’m looking for help with several Open Source projects.
+- 💬 Ask me about aviation, videogames, programming, 
+- 📫 How to reach me: at Twitter @DLozanoNavas or LinkedIn: 
+- 😄 Fun fact: I still miss my PS1.
+
+Here's my CodersRank Profile. 
+
+
 ![Drag Racing](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=dlozanonavas&badges=12&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px)
 
-<!--
-**DLozanoNavas/DLozanoNavas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I think it does a pretty good job showcasing what I do on my day to day basis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=dlozanonavas"
+/>
