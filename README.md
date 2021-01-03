@@ -12,7 +12,7 @@ From the technical side, I have been constantly involved in various academic and
 - 🤔 I’m looking for help with several Open Source projects.
 - 💬 Ask me about aviation, videogames, programming, 
 - 📫 How to reach me: at Twitter @DLozanoNavas or LinkedIn: 
-- 😄 Fun fact: I still miss my PS1.
+- 😄 Fun fact: I keep talking to myself outloud all day long. 
 
 Here's my CodersRank Profile. 
 
