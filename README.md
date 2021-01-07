@@ -1,8 +1,8 @@
 ### Hi there, I'm Daniel! 👋
 
-Hi! 👋🏻 My name is Daniel Lozano, I am a Colombian entrepreneur, full-stack, cross-platform developer, and simulation enthusiast. I specialize in Cloud computing, DevOps, SysOps, SecOps, and DataOps.
+Hi! 👋🏻 My name is Daniel Lozano, I am a Colombian entrepreneur, full-stack, cross-platform developer, Computer Science Instructor and Simulation Enthusiast. I specialize in Cloud computing, DevOps, SysOps, SecOps, and DataOps.
 
-From the technical side, I have been constantly involved in various academic and commercial projects, using technologies such as Java, JavaScript (client and server-side), .NET,  C / C ++. Deeply involved in AI, cybersecurity, game development, and data science.
+I have been constantly involved in various academic and commercial projects, using technologies such as Java, JavaScript (client and server-side), .NET,  C / C ++. Deeply involved in AI, cybersecurity, game development, and data science.
 
 - 🔭 I’m currently working at [@FenixAlliance](https://github.com/FenixAlliance) on the following projects:
     - [Alliance Business Suite](https://absuite.net)
