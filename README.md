@@ -19,8 +19,8 @@ From the technical side, I have been constantly involved in various academic and
 - 🌱 I’m currently learning Quantum Computing.
 - 👯 I’m looking to collaborate on cool initiatives.
 - 🤔 I’m looking for help with several Open Source projects.
-- 💬 Ask me about aviation, videogames, JS/C/C#/C++ programming, 
-- 📫 How to reach me: at Twitter @DLozanoNavas or LinkedIn: 
+- 💬 Ask me about Microsoft Azure, Linux, PowerShell, Kali, CGI, Unreal Engine, Unity, JS/C/C#/C++ programming, 
+- 📫 How to reach me: at [Twitter](https://twitter.com/dlozanonavas) or [LinkedIn](https://www.linkedin.com/in/dlozanonavas/).
 - 😄 Fun fact: I keep talking to myself outloud all day long. 
 
 Here's my CodersRank Profile. 
