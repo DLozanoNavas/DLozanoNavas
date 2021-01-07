@@ -19,7 +19,7 @@ I have been constantly involved in various academic and commercial projects, usi
 - 🌱 I’m currently learning Quantum Computing.
 - 👯 I’m looking to collaborate on cool initiatives.
 - 🤔 I’m looking for help with several Open Source projects.
-- 💬 Ask me about .NET Core/5.0, Microsoft Azure, Bash, CGI, C, C#, C++, CNTK, JS, Kali, LAMP, Linux, MEAN, ML.NET, PowerShell, Unity, Unreal Engine.
+- 💬 Ask me about .NET Core/5.0, Bash, CGI, C, C#, C++, CNTK, JS, Kali, LAMP, Linux, Microsoft Azure, MS SQL, MS W10, MEAN, ML.NET, PowerShell, Unity, Unreal Engine.
 - 📫 How to reach me: at [Twitter](https://twitter.com/dlozanonavas) or [LinkedIn](https://www.linkedin.com/in/dlozanonavas/).
 - 😄 Fun fact: I keep talking to myself outloud all day long. 
 
