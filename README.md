@@ -23,10 +23,10 @@ I have been constantly involved in various academic and commercial projects, usi
 - 📫 How to reach me: at [Twitter](https://twitter.com/dlozanonavas) or [LinkedIn](https://www.linkedin.com/in/dlozanonavas/).
 - 😄 Fun fact: I keep talking to myself outloud all day long. 
 
-Here's my CodersRank Profile. 
+Here's a sneak peek to my [CodersRank Profile](https://profile.codersrank.io/user/dlozanonavas). 
 
 ![CodersRank Profile](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=dlozanonavas&badges=12&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px)
 
-I think it does a pretty good job showcasing what I do on my day to day basis.
+I think it does a pretty good job showcasing what I do on my day to day basis. 😃👨🏻‍💻
 
 <img  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=dlozanonavas&style=--header-bg-color:%23000;--border-radius:10px"/>
