@@ -1,6 +1,6 @@
 ### Hi there, I'm Daniel! 👋
 
-Hi! 👋🏻 My name is Daniel Lozano, I am a Colombian entrepreneur, full-stack, cross-platform developer, Computer Science Instructor and Simulation Enthusiast. I specialize in Cloud computing, DevOps, SysOps, SecOps, and DataOps.
+Hi! 👋🏻 My name is Daniel Lozano, I am a Colombian entrepreneur, full-stack, cross-platform developer, Computer Science Instructor and Simulation Enthusiast. I specialize in Azure and .NET.
 
 I have been constantly involved in various academic and commercial projects, using technologies such as Java, JavaScript (client and server-side), .NET,  C / C ++. Deeply involved in AI, cybersecurity, game development, and data science.
 
