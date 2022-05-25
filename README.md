@@ -26,3 +26,4 @@ I have been constantly involved in various academic and commercial projects, usi
 Here's a sneak peek to my [CodersRank Profile](https://profile.codersrank.io/user/dlozanonavas). I think it does a pretty good job showcasing what I do on my day to day basis. 😃👨🏻‍💻
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=dlozanonavas)](https://github.com/dlozanonavas)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlozanonavas&layout=compact)](https://github.com/dlozanonavas)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DLozanoNavas)](https://git.io/streak-stats)
