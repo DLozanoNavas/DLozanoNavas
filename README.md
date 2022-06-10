@@ -24,6 +24,9 @@ I have been constantly involved in various academic and commercial projects, usi
 - 😄 Fun fact: 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /> 
 **Cricket Noise**...
+.
+.
+.
 Nah, Really. I quit college, not one, not two, but three times.... Not funny enough? Check out this meme:
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
