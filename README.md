@@ -25,13 +25,9 @@ I have been constantly involved in various academic and commercial projects, usi
 
 Here's a sneak peek to my [CodersRank Profile](https://profile.codersrank.io/user/dlozanonavas). I think it does a pretty good job showcasing what I do on my day to day basis. 😃👨🏻‍💻
 
+<hr>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dlozanonavas)](https://github.com/dlozanonavas)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DLozanoNavas)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlozanonavas&layout=compact)](https://github.com/dlozanonavas)
-
-### Skills
+## Skills
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -64,3 +60,32 @@ Here's a sneak peek to my [CodersRank Profile](https://profile.codersrank.io/use
 <a href="https://ipfs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored.svg" width="36" height="36" alt="IPFS" /></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
+<hr>
+<div align=center>
+<div align=center>
+  <img src="https://activity-graph.herokuapp.com/graph?username=dlozanonavas&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</div>
+<hr
+
+<div align=center>
+      <img align="left" width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=dlozanonavas&theme=react&border=61dafb&hide_border=true" alt="DLozanoNavas Stats" />
+</div>
+
+<div align=center>
+      <img align="right" width="30%" src="https://github-readme-stats.vercel.app/api?username=dlozanonavas&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+
+
+
+<div align=center>
+      <img width="30%"align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlozanonavas&hide=ShaderLab,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+</div>
+
+</div >
+
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dlozanonavas)](https://github.com/dlozanonavas)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DLozanoNavas)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlozanonavas&layout=compact)](https://github.com/dlozanonavas)
+
