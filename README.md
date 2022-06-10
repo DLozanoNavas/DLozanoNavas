@@ -1,4 +1,4 @@
-### Hi there, I'm Daniel! 👋
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+There!+I'm+Daniel+👋)](https://git.io/typing-svg)
 
 Hi! 👋🏻 My name is Daniel Lozano, I am a Colombian entrepreneur, full-stack, cross-platform developer, Computer Science Instructor and Simulation Enthusiast. I specialize in Azure and .NET.
 
@@ -21,9 +21,15 @@ I have been constantly involved in various academic and commercial projects, usi
 - 🤔 I’m looking for help with several Open Source projects.
 - 💬 Ask me about .NET, C, C#, C++, CNTK, JS, LAMP, LEMP, Linux, Microsoft Azure, MS SQL, Windows, MEAN, MERN, ML.NET, PowerShell, Unity, Unreal Engine.
 - 📫 You can reach me out @ [Twitter](https://twitter.com/dlozanonavas) or [LinkedIn](https://www.linkedin.com/in/dlozanonavas/).
-- 😄 Fun fact: I quit college, not one, not two, but three times.
+- 😄 Fun fact: 
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /> 
+**Cricket Noise**...
+Nah, Really. I quit college, not one, not two, but three times.... Not funny enough? Check out this meme:
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
-Here's a sneak peek to my [CodersRank Profile](https://profile.codersrank.io/user/dlozanonavas). I think it does a pretty good job showcasing what I do on my day to day basis. 😃👨🏻‍💻
+
+Check Out my [CodersRank Profile](https://profile.codersrank.io/user/dlozanonavas). I think it does a pretty good job showcasing what I do on my day to day basis. 😃👨🏻‍💻
+
 
 <hr>
 
@@ -88,4 +94,7 @@ Here's a sneak peek to my [CodersRank Profile](https://profile.codersrank.io/use
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DLozanoNavas)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlozanonavas&layout=compact)](https://github.com/dlozanonavas)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dlozanonavas&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](https://gitwar.herokuapp.com/badge?username=dlozanonavas&color=dc143c)
 
