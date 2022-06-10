@@ -27,7 +27,7 @@ I have been constantly involved in various academic and commercial projects, usi
 .
 .
 .
-Nah, Really. I quit college, not one, not two, but three times.... Not funny enough? Check out this meme:
+Not funny enough? Check out this meme:
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 
