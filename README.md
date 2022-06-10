@@ -21,7 +21,7 @@ I have been constantly involved in various academic and commercial projects, usi
 - 🤔 I’m looking for help with several Open Source projects.
 - 💬 Ask me about .NET, C, C#, C++, CNTK, JS, LAMP, LEMP, Linux, Microsoft Azure, MS SQL, Windows, MEAN, MERN, ML.NET, PowerShell, Unity, Unreal Engine.
 - 📫 You can reach me out @ [Twitter](https://twitter.com/dlozanonavas) or [LinkedIn](https://www.linkedin.com/in/dlozanonavas/).
-- 😄 Fun fact: I still miss my old 1Gen Xbox.
+- 😄 Fun fact: I quit out of college, not one, not two, but three times.
 
 Here's a sneak peek to my [CodersRank Profile](https://profile.codersrank.io/user/dlozanonavas). I think it does a pretty good job showcasing what I do on my day to day basis. 😃👨🏻‍💻
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=dlozanonavas)](https://github.com/dlozanonavas)
