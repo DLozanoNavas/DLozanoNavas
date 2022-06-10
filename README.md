@@ -23,12 +23,7 @@ I have been constantly involved in various academic and commercial projects, usi
 - 📫 You can reach me out @ [Twitter](https://twitter.com/dlozanonavas) or [LinkedIn](https://www.linkedin.com/in/dlozanonavas/).
 - 😄 Fun fact: 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /> 
-**Cricket Noise**...
-.
-.
-.
-Not funny enough? Check out this meme:
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+...**Cricket Noise**...
 
 
 Check Out my [CodersRank Profile](https://profile.codersrank.io/user/dlozanonavas). I think it does a pretty good job showcasing what I do on my day to day basis. 😃👨🏻‍💻
