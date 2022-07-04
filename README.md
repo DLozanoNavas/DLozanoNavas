@@ -88,11 +88,4 @@ Check Out my [CodersRank Profile](https://profile.codersrank.io/user/dlozanonava
 </div >
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dlozanonavas)](https://github.com/dlozanonavas)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DLozanoNavas)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlozanonavas&layout=compact)](https://github.com/dlozanonavas)
-[![trophy](https://github-profile-trophy.vercel.app/?username=dlozanonavas&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-![](https://gitwar.herokuapp.com/badge?username=dlozanonavas&color=dc143c)
 
