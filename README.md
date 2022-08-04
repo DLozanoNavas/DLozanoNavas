@@ -66,9 +66,7 @@ Check Out my [CodersRank Profile](https://profile.codersrank.io/user/dlozanonava
 </p>
 <hr>
 <div align=center>
-<div align=center>
-  <img src="https://activity-graph.herokuapp.com/graph?username=dlozanonavas&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</div>
+
 <hr
 
 <div align=center>
