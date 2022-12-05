@@ -26,7 +26,9 @@ I have been constantly involved in various academic and commercial projects, usi
 ...**Cricket Noise**...
 
 
-Check Out my [CodersRank Profile](https://profile.codersrank.io/user/dlozanonavas). I think it does a pretty good job showcasing what I do on my day to day basis. 😃👨🏻‍💻
+Check Out my [CodersRank Profile](https://profile.codersrank.io/user/dlozanonavas). I think it does a pretty good job showcasing what I do on my day to day basis. 😃👨🏻‍
+
+If you want to check out what I'm currently learning, please visit my [Pluralsight Profile](https://app.pluralsight.com/profile/daniel-lozanonavas). 👨🏻‍💻
 
 
 <hr>
