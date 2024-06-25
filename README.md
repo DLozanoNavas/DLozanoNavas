@@ -5,17 +5,13 @@ Hi! 👋🏻 My name is Daniel Lozano, I am a Colombian entrepreneur, full-stack
 I have been constantly involved in various academic and commercial projects, using technologies such as Java, JavaScript (client and server-side), .NET,  C / C ++. Deeply involved in AI, cybersecurity, game development, and data science.
 
 - 🔭 I’m currently working at [@FenixAlliance](https://github.com/FenixAlliance) on the following projects:
-    - [Alliance Business Suite](https://absuite.net)
-    - [Propietarios.net](https://Propietarios.net)
-    - [Boomlabs Institute](https://Boomlabs.edu.co)
-    - [Infinity Comex](https://infinity-comex.com)
-    - [CoopChain.net](https://coopchain.net)
+    - [Alliance Business Suite](https://absuite.net/Suite)
+    - [Alliance Business Cloud](https://absuite.net/Cloud)
+    - [Boomlabs Institute](https://boomlabs.edu.co)
+    - [Infinity Comex](https://infinity-comex.com/marketplace)
     - [ComputeWorks.net](https://ComputeWorks.net)
-    - [FBX Studios](https://fbxstudios.com)
-    - [Minnext Technologies](https://minnext.com)
-    - [Reach Design Studios](https://absuite.net)
-    - [TransportCenter.net](https://transportcenter.net)
-    
+    - [Propietarios.net](https://Propietarios.net)
+
 - 🌱 I’m currently learning Quantum Computing.
 - 👯 I’m looking to collaborate on cool initiatives.
 - 🤔 I’m looking for help with several Open Source projects.
