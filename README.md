@@ -4,11 +4,11 @@ Hi! 👋🏻 My name is Daniel Lozano, I am a Colombian entrepreneur, full-stack
 
 I have been constantly involved in various academic and commercial projects, using technologies such as Java, JavaScript (client and server-side), .NET,  C / C ++. Deeply involved in AI, cybersecurity, game development, and data science.
 
-- 🔭 I’m currently working at [@FenixAlliance](https://github.com/FenixAlliance) on the following projects:
+- 🔭 On my spare time, I’m currently working on the following projects:
     - [Alliance Business Suite](https://absuite.net/Suite)
     - [Alliance Business Cloud](https://absuite.net/Cloud)
-    - [Boomlabs Institute](https://boomlabs.edu.co)
-    - [Infinity Comex](https://infinity-comex.com/marketplace)
+    - [Infinity Comex](https://infinitycomex.com/marketplace)
+    - [Boomlabs Academy](https://boomlabs.edu.co)
     - [ComputeWorks.net](https://ComputeWorks.net)
     - [Propietarios.net](https://Propietarios.net)
 
