@@ -62,26 +62,5 @@ If you want to check out what I'm currently learning, please visit my [Pluralsig
 <a href="https://ipfs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored.svg" width="36" height="36" alt="IPFS" /></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
-<hr>
-<div align=center>
-
-<hr
-
-<div align=center>
-      <img align="left" width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=dlozanonavas&theme=react&border=61dafb&hide_border=true" alt="DLozanoNavas Stats" />
-</div>
-
-<div align=center>
-      <img align="right" width="30%" src="https://github-readme-stats.vercel.app/api?username=dlozanonavas&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-
-
-
-<div align=center>
-      <img width="30%"align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlozanonavas&hide=ShaderLab,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-</div>
-
-</div >
-
 
 
